@@ -1,10 +1,12 @@
 <script>
-	export let photo = '';
-	export let blur = 8;
-	export let contrast = 100;
-	export let brightness = 100;
-	export let grayscale = 0;
-	export let onReset = () => {};
+	let {
+		photo = '',
+		blur = 8,
+		contrast = 100,
+		brightness = 100,
+		grayscale = 0,
+		onReset = () => {}
+	} = $props();
 </script>
 
 <article

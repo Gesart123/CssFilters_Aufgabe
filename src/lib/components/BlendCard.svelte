@@ -1,9 +1,11 @@
 <script>
-	export let blendModes = [];
-	export let mixMode = 'multiply';
-	export let bgBlendMode = 'overlay';
-	export let photo = '';
-	export let texture = '';
+	let {
+		blendModes = [],
+		mixMode = 'multiply',
+		bgBlendMode = 'overlay',
+		photo = '',
+		texture = ''
+	} = $props();
 </script>
 
 <article
