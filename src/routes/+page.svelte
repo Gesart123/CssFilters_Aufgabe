@@ -1,4 +1,5 @@
 <script>
+	import BlendCard from '$lib/components/BlendCard.svelte';
 	import FilterCard from '$lib/components/FilterCard.svelte';
 
 	let blur = 8;
