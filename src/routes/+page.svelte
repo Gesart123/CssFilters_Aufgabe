@@ -40,7 +40,7 @@
 				CSS Filters & Blend Modes
 			</p>
 			<h1 class="text-3xl font-bold sm:text-4xl">
-				Playground fuer Blur, Kontrast, Helligkeit, Grayscale & Blend Modes
+				Playground für Blur, Kontrast, Helligkeit, Grayscale & Blend Modes
 			</h1>
 			<p class="max-w-3xl text-base text-slate-200">
 				Steuere mit einfachen Reglern die CSS
@@ -67,7 +67,7 @@
 		<section
 			class="rounded-2xl border border-white/10 bg-white/5 p-6 shadow-lg shadow-slate-900/40 backdrop-blur"
 		>
-			<h3 class="text-lg font-semibold">Mini-Tutorial (60 Minuten Uebung)</h3>
+			<h3 class="text-lg font-semibold">Mini-Tutorial (60 Minuten Übung)</h3>
 			<ol class="mt-3 list-decimal space-y-2 pl-5 text-sm text-slate-200">
 				<li>Baue eine einfache Seite mit einem Bild und einem Range-Slider.</li>
 				<li>
@@ -83,13 +83,13 @@
 					>
 					auf das Bild.
 				</li>
-				<li>Fuege weitere Slider fuer Kontrast, Helligkeit, Grayscale hinzu.</li>
+				<li>Füge weitere Slider für Kontrast, Helligkeit, Grayscale hinzu.</li>
 				<li>
-					Erzeuge eine zweite Karte mit zwei Hintergruenden (Gradient + Bild) und wende
+					Erzeuge eine zweite Karte mit zwei Hintergründen (Gradient + Bild) und wende
 					<code class="rounded bg-slate-900 px-1 py-0.5 text-[0.9em]">background-blend-mode</code> an.
 				</li>
-				<li>Teste verschiedene Blend Modes ueber ein Select; notiere Effekte fuer das Handout.</li>
-				<li>Screenshot der wichtigsten Zustaende fuer Praesentation/Handout machen.</li>
+				<li>Teste verschiedene Blend Modes über ein Select; notiere Effekte für das Handout.</li>
+				<li>Screenshot der wichtigsten Zustände für Präsentation/Handout machen.</li>
 			</ol>
 		</section>
 	</section>
